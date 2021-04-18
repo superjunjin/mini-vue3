@@ -53,5 +53,5 @@ effect(() => {
 2. 公共流程 ——> 抽离出去
 
 ## 四，创建mini-vue3，抽离createApp方法
-createApp中有挂载方法mount。分别传入要挂载的组件，和挂载到的容器。
-App组件中主要是渲染方法render和设置相应数据方法setup
+- createApp中有挂载方法mount。分别传入要挂载的组件，和挂载到的容器。
+- App组件中主要是渲染方法render和设置相应数据方法setup
